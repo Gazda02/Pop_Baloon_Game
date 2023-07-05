@@ -2,6 +2,9 @@ import pygame as pg
 from random import randrange
 
 
+"""Kod wymaga jeszcze uporzadkowania i usunięcia śmieci z testów"""
+
+
 class Game:
     def __init__(self, difficulty: int):
         """
